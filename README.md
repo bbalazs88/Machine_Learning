@@ -2,6 +2,8 @@
 My machine learning projects. It's time to dive deep into the machine learning libraries,
 and study the models, the hyperparameters, scaling, and everything relates to this topic.
 
+All the notebooks, I try to comment as much as possible, to make them clear, understandable, and reproducible to anyone. 
+
 ## Image classification
 It's a Deep Learning project, the MNIST dataset of the hand written numbers. At the end of the notebook, I added some examples
 of the predictions and the real labels - for this part, the real judge are your eyes.
