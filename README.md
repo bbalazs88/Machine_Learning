@@ -4,6 +4,10 @@ and study the models, the hyperparameters, scaling, and everything relates to th
 
 All the notebooks, I try to comment as much as possible, to make them clear, understandable, and reproducible to anyone. 
 
+## Pump it up!
+It's a DrivenData challenge, you have to do a multiclass classification to predict African water pump conditions, if they work, 
+don't work, or work but repair is needed. Currently there are 8000+ competitors, and the best score is around 82%. My solution is currently the 1640th with 75.25% accuracy. My ideas to make it better is on the bottom of the notebook, and I update it regularly.
+
 ## Image classification
 It's a Deep Learning project, the MNIST dataset of the hand written numbers. At the end of the notebook, I added some examples
 of the predictions and the real labels - for this part, the real judge are your eyes.
